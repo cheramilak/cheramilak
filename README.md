@@ -3,6 +3,7 @@
 
 I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passionate about technologies and love to learn new things.
 
+Code enthusiast 🧑‍💻 | Turning coffee into code ☕ | Backend wizard 🧞
 
 ## ⚡ Tech Stack
 
